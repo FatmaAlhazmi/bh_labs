@@ -16,6 +16,3 @@ Tip: If something looks empty (like a Poincaré section), increase the integrati
 - increase `nSample`
 
 
-## License
-
-MIT — do whatever you want, just keep the license file.
